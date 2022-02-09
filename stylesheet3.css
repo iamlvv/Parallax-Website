@@ -1,0 +1,94 @@
+body, html {
+    width: 100%;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.parallax {
+    background-image: url('Pixel-City-Wallpapers.jpg');
+    background-attachment: fixed;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+  opacity: 0.65;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+.heading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    color: white;
+    background-color: #111;
+}
+div {
+    display: block;
+}
+.caption {
+    position: absolute; 
+    top: 50%;
+    left: 0;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+.parallax2 {
+    position: relative;
+    background-image: url('photo-1449824913935-59a10b8d2000.jfif');
+    background-attachment: fixed;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+  opacity: 0.65;
+}
+.parallax3 {
+    position: relative;
+    background-image: url('photo-1480714378408-67cf0d13bc1b.jfif');
+    background-attachment: fixed;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+  opacity: 0.65;
+}
+.parallax4 {
+    position: relative;
+    background-image: url('background-city-blur.jpg');
+    background-attachment: fixed;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+  opacity: 0.65;
+}
+.caption2, .caption3, .caption4 {
+    position: absolute; 
+    top: 50%;
+    left: 0;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+.media, .three-text, .two-text {
+    text-transform: uppercase;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    color: white;
+    background-color: #111;
+}
+.section {
+    text-align: center;
+    padding: 50px;
+    
+}
